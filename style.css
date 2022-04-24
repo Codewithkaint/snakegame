@@ -58,14 +58,14 @@ right: 0;
   
 }
 .fod{z-index: 1;
-    background:url('/css/apple.png');
+    background:url('.//css/apple.png');
     background-size: 100% 100%;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .head{z-index: 1;
-    background:url('/css/snake.png');
+    background:url('.//css/snake.png');
     background-size: 100% 100%;
     display: flex;
     justify-content: center;
